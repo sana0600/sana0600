@@ -57,20 +57,6 @@ Tools
 
 ---
 
- ⚡ Fun Fact
-
-> I don't just want code that works.
-> I want code that scales, survives production, and doesn't wake me up at 3 AM. 😅
-
----
-
- 📊 GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
-
----
-
- 🤝 Let's Build Something Cool
 
 💻 Open to interesting projects, collaboration and opportunities.
 
